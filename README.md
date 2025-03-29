@@ -8,7 +8,8 @@ Objective/Goal: Python project to Analyze Fire Work sales data to improve custom
 3.Improved Customer experience by identifying potential customers across different states, occupation, gender and age groups.<br>
 4.Improved sales by identifying most selling product categories and products, which can help to plan inventory and hence meet the demands.<br>
 
-![image](https://github.com/user-attachments/assets/35ed96d3-563a-4b4c-8334-92ca1283788a)
+![image](https://github.com/user-attachments/assets/a73ac69f-e788-41e4-9bb9-8c83fa23d240)
+
 
 
 # Conclusion :-
