@@ -1,6 +1,6 @@
 # New_Year_Sales_Analysis :-
 
-Objective/Goal: Python project to Analyze Fire Work sales data to improve customer experience and sales.
+Objective/Goal: Python project to Analyze New Year sales data to improve customer experience and sales.
 
 # Project Description :-
 1.Performed Data Cleaning and Data Manipulation.<br>
