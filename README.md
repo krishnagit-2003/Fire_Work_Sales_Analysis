@@ -1,4 +1,4 @@
-# Fire_Work_Sales_Analysis :-
+# New_Year_Sales_Analysis :-
 
 Objective/Goal: Python project to Analyze Fire Work sales data to improve customer experience and sales.
 
